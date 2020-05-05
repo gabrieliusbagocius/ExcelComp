@@ -1,0 +1,527 @@
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelWPF\bin\Debug\ReadExcelWPF.exe.config
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelWPF\bin\Debug\ReadExcelWPF.exe
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelWPF\bin\Debug\ReadExcelWPF.pdb
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelWPF\bin\Debug\ClosedXML.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelWPF\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelWPF\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelWPF\bin\Debug\ExcelDataReader.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelWPF\bin\Debug\ExcelNumberFormat.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelWPF\bin\Debug\FastMember.Signed.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelWPF\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelWPF\bin\Debug\System.IO.Packaging.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelWPF\bin\Debug\ClosedXML.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelWPF\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelWPF\bin\Debug\ExcelDataReader.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelWPF\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelWPF\bin\Debug\ExcelNumberFormat.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelWPF\obj\Debug\ReadExcelWPF.csprojResolveAssemblyReference.cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelWPF\obj\Debug\MainWindow.g.cs
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelWPF\obj\Debug\App.g.cs
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelWPF\obj\Debug\ReadExcelWPF_MarkupCompile.cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelWPF\obj\Debug\ReadExcelWPF_MarkupCompile.lref
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelWPF\obj\Debug\MainWindow.baml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelWPF\obj\Debug\ReadExcelWPF.g.resources
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelWPF\obj\Debug\ReadExcelWPF.Properties.Resources.resources
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.GenerateResource.Cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.CoreCompileInputs.cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelWPF\obj\Debug\ReadExcelWPF.exe
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelWPF\obj\Debug\ReadExcelWPF.pdb
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelWPF\bin\Debug\ReadExcelData.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelWPF\bin\Debug\ReadExcelData.pdb
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelWPF\obj\Debug\ReadExcelWPF.csprojResolveAssemblyReference.cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelWPF\obj\Debug\MainWindow.g.cs
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelWPF\obj\Debug\App.g.cs
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelWPF\obj\Debug\ReadExcelWPF_MarkupCompile.cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelWPF\obj\Debug\ReadExcelWPF_MarkupCompile.lref
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelWPF\obj\Debug\ReadExcelWPF.exe
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelWPF\obj\Debug\ReadExcelWPF.pdb
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelWPF\bin\Debug\ReadExcelWPF.exe.config
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelWPF\bin\Debug\ReadExcelWPF.exe
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelWPF\bin\Debug\ReadExcelWPF.pdb
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelWPF\bin\Debug\ClosedXML.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelWPF\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelWPF\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelWPF\bin\Debug\ExcelDataReader.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelWPF\bin\Debug\ExcelNumberFormat.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelWPF\bin\Debug\FastMember.Signed.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelWPF\bin\Debug\ReadExcelData.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelWPF\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelWPF\bin\Debug\System.IO.Packaging.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelWPF\bin\Debug\ReadExcelData.pdb
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelWPF\bin\Debug\ClosedXML.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelWPF\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelWPF\bin\Debug\ExcelDataReader.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelWPF\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelWPF\bin\Debug\ExcelNumberFormat.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelWPF\obj\Debug\MainWindow.baml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelWPF\obj\Debug\ReadExcelWPF.g.resources
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelWPF\obj\Debug\ReadExcelWPF.Properties.Resources.resources
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.GenerateResource.Cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.CoreCompileInputs.cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\totestwith\ReadExcelWPF\bin\Debug\ReadExcelWPF.exe.config
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\totestwith\ReadExcelWPF\bin\Debug\ReadExcelWPF.exe
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\totestwith\ReadExcelWPF\bin\Debug\ReadExcelWPF.pdb
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\totestwith\ReadExcelWPF\bin\Debug\ClosedXML.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\totestwith\ReadExcelWPF\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\totestwith\ReadExcelWPF\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\totestwith\ReadExcelWPF\bin\Debug\ExcelDataReader.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\totestwith\ReadExcelWPF\bin\Debug\ExcelNumberFormat.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\totestwith\ReadExcelWPF\bin\Debug\FastMember.Signed.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\totestwith\ReadExcelWPF\bin\Debug\ReadExcelData.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\totestwith\ReadExcelWPF\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\totestwith\ReadExcelWPF\bin\Debug\System.IO.Packaging.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\totestwith\ReadExcelWPF\bin\Debug\ReadExcelData.pdb
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\totestwith\ReadExcelWPF\bin\Debug\ClosedXML.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\totestwith\ReadExcelWPF\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\totestwith\ReadExcelWPF\bin\Debug\ExcelDataReader.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\totestwith\ReadExcelWPF\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\totestwith\ReadExcelWPF\bin\Debug\ExcelNumberFormat.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\totestwith\ReadExcelWPF\obj\Debug\ReadExcelWPF.csprojResolveAssemblyReference.cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\totestwith\ReadExcelWPF\obj\Debug\MainWindow.g.cs
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\totestwith\ReadExcelWPF\obj\Debug\App.g.cs
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\totestwith\ReadExcelWPF\obj\Debug\ReadExcelWPF_MarkupCompile.cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\totestwith\ReadExcelWPF\obj\Debug\ReadExcelWPF_MarkupCompile.lref
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\totestwith\ReadExcelWPF\obj\Debug\MainWindow.baml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\totestwith\ReadExcelWPF\obj\Debug\ReadExcelWPF.g.resources
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\totestwith\ReadExcelWPF\obj\Debug\ReadExcelWPF.Properties.Resources.resources
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\totestwith\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.GenerateResource.Cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\totestwith\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.CoreCompileInputs.cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\totestwith\ReadExcelWPF\obj\Debug\ReadExcelWPF.exe
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\totestwith\ReadExcelWPF\obj\Debug\ReadExcelWPF.pdb
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ReadExcelWPF.exe.config
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ReadExcelWPF.exe
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ReadExcelWPF.pdb
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ClosedXML.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ExcelDataReader.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ExcelNumberFormat.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\FastMember.Signed.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ReadExcelData.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\System.IO.Packaging.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ReadExcelData.pdb
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ClosedXML.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ExcelDataReader.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ExcelNumberFormat.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF.csprojResolveAssemblyReference.cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\MainWindow.g.cs
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\App.g.cs
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF_MarkupCompile.cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF_MarkupCompile.lref
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\App.baml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\MainWindow.baml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF.g.resources
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF.Properties.Resources.resources
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.GenerateResource.Cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.CoreCompileInputs.cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF.exe
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF.pdb
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\Themes.baml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\RoundedButtonStyle.baml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\SettingsWindow.g.cs
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\SettingsWindow.baml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ReadExcelWPF.exe.config
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ReadExcelWPF.exe
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ReadExcelWPF.pdb
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ClosedXML.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ExcelDataReader.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ExcelNumberFormat.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\FastMember.Signed.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ReadExcelData.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\System.IO.Packaging.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ReadExcelData.pdb
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ClosedXML.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ExcelDataReader.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ExcelNumberFormat.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF.csprojResolveAssemblyReference.cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\MainWindow.g.cs
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\SettingsWindow.g.cs
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\App.g.cs
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF_MarkupCompile.cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF_MarkupCompile.lref
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\App.baml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\MainWindow.baml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\RoundedButtonStyle.baml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\SettingsWindow.baml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\Themes.baml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF.g.resources
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF.Properties.Resources.resources
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.GenerateResource.Cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.CoreCompileInputs.cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF.exe
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF.pdb
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF.csprojResolveAssemblyReference.cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\MainWindow.g.cs
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\App.g.cs
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF_MarkupCompile.cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF_MarkupCompile.lref
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ReadExcelWPF.exe.config
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ReadExcelWPF.exe
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ReadExcelWPF.pdb
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ClosedXML.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ExcelDataReader.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ExcelNumberFormat.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\FastMember.Signed.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ReadExcelData.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\System.IO.Packaging.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ReadExcelData.pdb
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ReadExcelData.dll.config
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ClosedXML.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ExcelDataReader.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ExcelNumberFormat.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\App.baml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\MainWindow.baml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\RoundedButtonStyle.baml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\Themes.baml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF.g.resources
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF.Properties.Resources.resources
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.GenerateResource.Cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.CoreCompileInputs.cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF.exe
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF.pdb
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\Interop.MSHTML.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.ResolveComReference.cache
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ReadExcelWPF.exe.config
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ReadExcelWPF.exe
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ReadExcelWPF.pdb
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ClosedXML.dll
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ExcelDataReader.dll
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ExcelNumberFormat.dll
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\FastMember.Signed.dll
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ReadExcelData.dll
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\System.IO.Packaging.dll
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ReadExcelData.pdb
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ReadExcelData.dll.config
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ClosedXML.xml
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ExcelDataReader.xml
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\bin\Debug\ExcelNumberFormat.xml
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF.csprojAssemblyReference.cache
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\Interop.MSHTML.dll
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.ResolveComReference.cache
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\MainWindow.g.cs
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\App.g.cs
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF_MarkupCompile.cache
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF_MarkupCompile.lref
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\App.baml
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\MainWindow.baml
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\RoundedButtonStyle.baml
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\Themes.baml
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF.g.resources
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF.Properties.Resources.resources
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.GenerateResource.cache
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.CoreCompileInputs.cache
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.CopyComplete
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF.exe
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelWPF\obj\Debug\ReadExcelWPF.pdb
+C:\Users\navi\Desktop\compare\ReadExcelWPF\bin\Debug\ReadExcelWPF.exe.config
+C:\Users\navi\Desktop\compare\ReadExcelWPF\bin\Debug\ReadExcelWPF.exe
+C:\Users\navi\Desktop\compare\ReadExcelWPF\bin\Debug\ReadExcelWPF.pdb
+C:\Users\navi\Desktop\compare\ReadExcelWPF\bin\Debug\ClosedXML.dll
+C:\Users\navi\Desktop\compare\ReadExcelWPF\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\navi\Desktop\compare\ReadExcelWPF\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\navi\Desktop\compare\ReadExcelWPF\bin\Debug\ExcelDataReader.dll
+C:\Users\navi\Desktop\compare\ReadExcelWPF\bin\Debug\ExcelNumberFormat.dll
+C:\Users\navi\Desktop\compare\ReadExcelWPF\bin\Debug\FastMember.Signed.dll
+C:\Users\navi\Desktop\compare\ReadExcelWPF\bin\Debug\ReadExcelData.dll
+C:\Users\navi\Desktop\compare\ReadExcelWPF\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\navi\Desktop\compare\ReadExcelWPF\bin\Debug\System.IO.Packaging.dll
+C:\Users\navi\Desktop\compare\ReadExcelWPF\bin\Debug\ReadExcelData.pdb
+C:\Users\navi\Desktop\compare\ReadExcelWPF\bin\Debug\ReadExcelData.dll.config
+C:\Users\navi\Desktop\compare\ReadExcelWPF\bin\Debug\ClosedXML.xml
+C:\Users\navi\Desktop\compare\ReadExcelWPF\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\navi\Desktop\compare\ReadExcelWPF\bin\Debug\ExcelDataReader.xml
+C:\Users\navi\Desktop\compare\ReadExcelWPF\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\navi\Desktop\compare\ReadExcelWPF\bin\Debug\ExcelNumberFormat.xml
+C:\Users\navi\Desktop\compare\ReadExcelWPF\obj\Debug\ReadExcelWPF.csprojAssemblyReference.cache
+C:\Users\navi\Desktop\compare\ReadExcelWPF\obj\Debug\Interop.MSHTML.dll
+C:\Users\navi\Desktop\compare\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.ResolveComReference.cache
+C:\Users\navi\Desktop\compare\ReadExcelWPF\obj\Debug\MainWindow.g.cs
+C:\Users\navi\Desktop\compare\ReadExcelWPF\obj\Debug\App.g.cs
+C:\Users\navi\Desktop\compare\ReadExcelWPF\obj\Debug\ReadExcelWPF_MarkupCompile.cache
+C:\Users\navi\Desktop\compare\ReadExcelWPF\obj\Debug\ReadExcelWPF_MarkupCompile.lref
+C:\Users\navi\Desktop\compare\ReadExcelWPF\obj\Debug\App.baml
+C:\Users\navi\Desktop\compare\ReadExcelWPF\obj\Debug\MainWindow.baml
+C:\Users\navi\Desktop\compare\ReadExcelWPF\obj\Debug\RoundedButtonStyle.baml
+C:\Users\navi\Desktop\compare\ReadExcelWPF\obj\Debug\Themes.baml
+C:\Users\navi\Desktop\compare\ReadExcelWPF\obj\Debug\ReadExcelWPF.g.resources
+C:\Users\navi\Desktop\compare\ReadExcelWPF\obj\Debug\ReadExcelWPF.Properties.Resources.resources
+C:\Users\navi\Desktop\compare\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.GenerateResource.cache
+C:\Users\navi\Desktop\compare\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.CoreCompileInputs.cache
+C:\Users\navi\Desktop\compare\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.CopyComplete
+C:\Users\navi\Desktop\compare\ReadExcelWPF\obj\Debug\ReadExcelWPF.exe
+C:\Users\navi\Desktop\compare\ReadExcelWPF\obj\Debug\ReadExcelWPF.pdb
+C:\Users\academy\Desktop\compare\ReadExcelWPF\bin\Debug\ReadExcelWPF.exe.config
+C:\Users\academy\Desktop\compare\ReadExcelWPF\bin\Debug\ReadExcelWPF.exe
+C:\Users\academy\Desktop\compare\ReadExcelWPF\bin\Debug\ReadExcelWPF.pdb
+C:\Users\academy\Desktop\compare\ReadExcelWPF\bin\Debug\ClosedXML.dll
+C:\Users\academy\Desktop\compare\ReadExcelWPF\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\academy\Desktop\compare\ReadExcelWPF\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\academy\Desktop\compare\ReadExcelWPF\bin\Debug\ExcelDataReader.dll
+C:\Users\academy\Desktop\compare\ReadExcelWPF\bin\Debug\ExcelNumberFormat.dll
+C:\Users\academy\Desktop\compare\ReadExcelWPF\bin\Debug\FastMember.Signed.dll
+C:\Users\academy\Desktop\compare\ReadExcelWPF\bin\Debug\ReadExcelData.dll
+C:\Users\academy\Desktop\compare\ReadExcelWPF\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\academy\Desktop\compare\ReadExcelWPF\bin\Debug\System.IO.Packaging.dll
+C:\Users\academy\Desktop\compare\ReadExcelWPF\bin\Debug\ReadExcelData.pdb
+C:\Users\academy\Desktop\compare\ReadExcelWPF\bin\Debug\ReadExcelData.dll.config
+C:\Users\academy\Desktop\compare\ReadExcelWPF\bin\Debug\ClosedXML.xml
+C:\Users\academy\Desktop\compare\ReadExcelWPF\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\academy\Desktop\compare\ReadExcelWPF\bin\Debug\ExcelDataReader.xml
+C:\Users\academy\Desktop\compare\ReadExcelWPF\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\academy\Desktop\compare\ReadExcelWPF\bin\Debug\ExcelNumberFormat.xml
+C:\Users\academy\Desktop\compare\ReadExcelWPF\obj\Debug\ReadExcelWPF.csprojAssemblyReference.cache
+C:\Users\academy\Desktop\compare\ReadExcelWPF\obj\Debug\Interop.MSHTML.dll
+C:\Users\academy\Desktop\compare\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.ResolveComReference.cache
+C:\Users\academy\Desktop\compare\ReadExcelWPF\obj\Debug\MainWindow.g.cs
+C:\Users\academy\Desktop\compare\ReadExcelWPF\obj\Debug\App.g.cs
+C:\Users\academy\Desktop\compare\ReadExcelWPF\obj\Debug\ReadExcelWPF_MarkupCompile.cache
+C:\Users\academy\Desktop\compare\ReadExcelWPF\obj\Debug\ReadExcelWPF_MarkupCompile.lref
+C:\Users\academy\Desktop\compare\ReadExcelWPF\obj\Debug\App.baml
+C:\Users\academy\Desktop\compare\ReadExcelWPF\obj\Debug\MainWindow.baml
+C:\Users\academy\Desktop\compare\ReadExcelWPF\obj\Debug\RoundedButtonStyle.baml
+C:\Users\academy\Desktop\compare\ReadExcelWPF\obj\Debug\Themes.baml
+C:\Users\academy\Desktop\compare\ReadExcelWPF\obj\Debug\ReadExcelWPF.g.resources
+C:\Users\academy\Desktop\compare\ReadExcelWPF\obj\Debug\ReadExcelWPF.Properties.Resources.resources
+C:\Users\academy\Desktop\compare\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.GenerateResource.cache
+C:\Users\academy\Desktop\compare\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.CoreCompileInputs.cache
+C:\Users\academy\Desktop\compare\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.CopyComplete
+C:\Users\academy\Desktop\compare\ReadExcelWPF\obj\Debug\ReadExcelWPF.exe
+C:\Users\academy\Desktop\compare\ReadExcelWPF\obj\Debug\ReadExcelWPF.pdb
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\bin\Debug\ReadExcelWPF.exe.config
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\bin\Debug\ReadExcelWPF.exe
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\bin\Debug\ReadExcelWPF.pdb
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\bin\Debug\ClosedXML.dll
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\bin\Debug\ExcelDataReader.dll
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\bin\Debug\ExcelNumberFormat.dll
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\bin\Debug\FastMember.Signed.dll
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\bin\Debug\ReadExcelData.dll
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\bin\Debug\System.IO.Packaging.dll
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\bin\Debug\ReadExcelData.pdb
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\bin\Debug\ReadExcelData.dll.config
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\bin\Debug\ClosedXML.xml
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\bin\Debug\ExcelDataReader.xml
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\bin\Debug\ExcelNumberFormat.xml
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\obj\Debug\ReadExcelWPF.csprojResolveAssemblyReference.cache
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\obj\Debug\Interop.MSHTML.dll
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.ResolveComReference.cache
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\obj\Debug\MainWindow.g.cs
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\obj\Debug\App.g.cs
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\obj\Debug\ReadExcelWPF_MarkupCompile.cache
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\obj\Debug\ReadExcelWPF_MarkupCompile.lref
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\obj\Debug\App.baml
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\obj\Debug\MainWindow.baml
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\obj\Debug\RoundedButtonStyle.baml
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\obj\Debug\Themes.baml
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\obj\Debug\ReadExcelWPF.g.resources
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\obj\Debug\ReadExcelWPF.Properties.Resources.resources
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.GenerateResource.Cache
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.CoreCompileInputs.cache
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\obj\Debug\ReadExcelWPF.exe
+C:\Users\User 7\Desktop\compare\ReadExcelWPF\obj\Debug\ReadExcelWPF.pdb
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\bin\Debug\ReadExcelWPF.exe.config
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\bin\Debug\ReadExcelWPF.exe
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\bin\Debug\ReadExcelWPF.pdb
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\bin\Debug\ClosedXML.dll
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\bin\Debug\ExcelDataReader.dll
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\bin\Debug\ExcelNumberFormat.dll
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\bin\Debug\FastMember.Signed.dll
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\bin\Debug\ReadExcelData.dll
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\bin\Debug\System.IO.Packaging.dll
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\bin\Debug\ReadExcelData.pdb
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\bin\Debug\ReadExcelData.dll.config
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\bin\Debug\ClosedXML.xml
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\bin\Debug\ExcelDataReader.xml
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\bin\Debug\ExcelNumberFormat.xml
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\obj\Debug\ReadExcelWPF.csprojResolveAssemblyReference.cache
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\obj\Debug\Interop.MSHTML.dll
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.ResolveComReference.cache
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\obj\Debug\MainWindow.g.cs
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\obj\Debug\App.g.cs
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\obj\Debug\ReadExcelWPF_MarkupCompile.cache
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\obj\Debug\ReadExcelWPF_MarkupCompile.lref
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\obj\Debug\App.baml
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\obj\Debug\MainWindow.baml
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\obj\Debug\RoundedButtonStyle.baml
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\obj\Debug\Themes.baml
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\obj\Debug\ReadExcelWPF.g.resources
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\obj\Debug\ReadExcelWPF.Properties.Resources.resources
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.GenerateResource.Cache
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.CoreCompileInputs.cache
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\obj\Debug\ReadExcelWPF.exe
+C:\Users\User 7\Desktop\compare2\ReadExcelWPF\obj\Debug\ReadExcelWPF.pdb
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\bin\Debug\ReadExcelWPF.exe.config
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\bin\Debug\ReadExcelWPF.exe
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\bin\Debug\ReadExcelWPF.pdb
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\bin\Debug\ClosedXML.dll
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\bin\Debug\ExcelDataReader.dll
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\bin\Debug\ExcelNumberFormat.dll
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\bin\Debug\FastMember.Signed.dll
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\bin\Debug\ReadExcelData.dll
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\bin\Debug\System.IO.Packaging.dll
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\bin\Debug\ReadExcelData.pdb
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\bin\Debug\ReadExcelData.dll.config
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\bin\Debug\ClosedXML.xml
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\bin\Debug\ExcelDataReader.xml
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\bin\Debug\ExcelNumberFormat.xml
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\obj\Debug\ReadExcelWPF.csprojAssemblyReference.cache
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\obj\Debug\Interop.MSHTML.dll
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.ResolveComReference.cache
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\obj\Debug\MainWindow.g.cs
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\obj\Debug\App.g.cs
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\obj\Debug\ReadExcelWPF_MarkupCompile.cache
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\obj\Debug\ReadExcelWPF_MarkupCompile.lref
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\obj\Debug\App.baml
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\obj\Debug\MainWindow.baml
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\obj\Debug\RoundedButtonStyle.baml
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\obj\Debug\Themes.baml
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\obj\Debug\ReadExcelWPF.g.resources
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\obj\Debug\ReadExcelWPF.Properties.Resources.resources
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.GenerateResource.cache
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.CoreCompileInputs.cache
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.CopyComplete
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\obj\Debug\ReadExcelWPF.exe
+C:\Users\navi\Desktop\compare2\ReadExcelWPF\obj\Debug\ReadExcelWPF.pdb
+D:\ProgramosSourceKodas\ReadExcelWPF\bin\Debug\ReadExcelWPF.exe.config
+D:\ProgramosSourceKodas\ReadExcelWPF\bin\Debug\ReadExcelWPF.exe
+D:\ProgramosSourceKodas\ReadExcelWPF\bin\Debug\ReadExcelWPF.pdb
+D:\ProgramosSourceKodas\ReadExcelWPF\bin\Debug\ClosedXML.dll
+D:\ProgramosSourceKodas\ReadExcelWPF\bin\Debug\DocumentFormat.OpenXml.dll
+D:\ProgramosSourceKodas\ReadExcelWPF\bin\Debug\ExcelDataReader.DataSet.dll
+D:\ProgramosSourceKodas\ReadExcelWPF\bin\Debug\ExcelDataReader.dll
+D:\ProgramosSourceKodas\ReadExcelWPF\bin\Debug\ExcelNumberFormat.dll
+D:\ProgramosSourceKodas\ReadExcelWPF\bin\Debug\FastMember.Signed.dll
+D:\ProgramosSourceKodas\ReadExcelWPF\bin\Debug\ReadExcelData.dll
+D:\ProgramosSourceKodas\ReadExcelWPF\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\ProgramosSourceKodas\ReadExcelWPF\bin\Debug\System.IO.Packaging.dll
+D:\ProgramosSourceKodas\ReadExcelWPF\bin\Debug\ReadExcelData.pdb
+D:\ProgramosSourceKodas\ReadExcelWPF\bin\Debug\ReadExcelData.dll.config
+D:\ProgramosSourceKodas\ReadExcelWPF\bin\Debug\ClosedXML.xml
+D:\ProgramosSourceKodas\ReadExcelWPF\bin\Debug\DocumentFormat.OpenXml.xml
+D:\ProgramosSourceKodas\ReadExcelWPF\bin\Debug\ExcelDataReader.xml
+D:\ProgramosSourceKodas\ReadExcelWPF\bin\Debug\ExcelDataReader.DataSet.xml
+D:\ProgramosSourceKodas\ReadExcelWPF\bin\Debug\ExcelNumberFormat.xml
+D:\ProgramosSourceKodas\ReadExcelWPF\obj\Debug\ReadExcelWPF.csprojAssemblyReference.cache
+D:\ProgramosSourceKodas\ReadExcelWPF\obj\Debug\Interop.MSHTML.dll
+D:\ProgramosSourceKodas\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.ResolveComReference.cache
+D:\ProgramosSourceKodas\ReadExcelWPF\obj\Debug\MainWindow.g.cs
+D:\ProgramosSourceKodas\ReadExcelWPF\obj\Debug\App.g.cs
+D:\ProgramosSourceKodas\ReadExcelWPF\obj\Debug\ReadExcelWPF_MarkupCompile.cache
+D:\ProgramosSourceKodas\ReadExcelWPF\obj\Debug\ReadExcelWPF_MarkupCompile.lref
+D:\ProgramosSourceKodas\ReadExcelWPF\obj\Debug\App.baml
+D:\ProgramosSourceKodas\ReadExcelWPF\obj\Debug\MainWindow.baml
+D:\ProgramosSourceKodas\ReadExcelWPF\obj\Debug\RoundedButtonStyle.baml
+D:\ProgramosSourceKodas\ReadExcelWPF\obj\Debug\Themes.baml
+D:\ProgramosSourceKodas\ReadExcelWPF\obj\Debug\ReadExcelWPF.g.resources
+D:\ProgramosSourceKodas\ReadExcelWPF\obj\Debug\ReadExcelWPF.Properties.Resources.resources
+D:\ProgramosSourceKodas\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.GenerateResource.cache
+D:\ProgramosSourceKodas\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.CoreCompileInputs.cache
+D:\ProgramosSourceKodas\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.CopyComplete
+D:\ProgramosSourceKodas\ReadExcelWPF\obj\Debug\ReadExcelWPF.exe
+D:\ProgramosSourceKodas\ReadExcelWPF\obj\Debug\ReadExcelWPF.pdb
+D:\ExcelComparison\ReadExcelWPF\bin\Debug\ReadExcelWPF.exe.config
+D:\ExcelComparison\ReadExcelWPF\bin\Debug\ReadExcelWPF.exe
+D:\ExcelComparison\ReadExcelWPF\bin\Debug\ReadExcelWPF.pdb
+D:\ExcelComparison\ReadExcelWPF\bin\Debug\ClosedXML.dll
+D:\ExcelComparison\ReadExcelWPF\bin\Debug\DocumentFormat.OpenXml.dll
+D:\ExcelComparison\ReadExcelWPF\bin\Debug\ExcelDataReader.DataSet.dll
+D:\ExcelComparison\ReadExcelWPF\bin\Debug\ExcelDataReader.dll
+D:\ExcelComparison\ReadExcelWPF\bin\Debug\ExcelNumberFormat.dll
+D:\ExcelComparison\ReadExcelWPF\bin\Debug\FastMember.Signed.dll
+D:\ExcelComparison\ReadExcelWPF\bin\Debug\ReadExcelData.dll
+D:\ExcelComparison\ReadExcelWPF\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\ExcelComparison\ReadExcelWPF\bin\Debug\System.IO.Packaging.dll
+D:\ExcelComparison\ReadExcelWPF\bin\Debug\ReadExcelData.pdb
+D:\ExcelComparison\ReadExcelWPF\bin\Debug\ReadExcelData.dll.config
+D:\ExcelComparison\ReadExcelWPF\bin\Debug\ClosedXML.xml
+D:\ExcelComparison\ReadExcelWPF\bin\Debug\DocumentFormat.OpenXml.xml
+D:\ExcelComparison\ReadExcelWPF\bin\Debug\ExcelDataReader.xml
+D:\ExcelComparison\ReadExcelWPF\bin\Debug\ExcelDataReader.DataSet.xml
+D:\ExcelComparison\ReadExcelWPF\bin\Debug\ExcelNumberFormat.xml
+D:\ExcelComparison\ReadExcelWPF\obj\Debug\ReadExcelWPF.csprojAssemblyReference.cache
+D:\ExcelComparison\ReadExcelWPF\obj\Debug\Interop.MSHTML.dll
+D:\ExcelComparison\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.ResolveComReference.cache
+D:\ExcelComparison\ReadExcelWPF\obj\Debug\MainWindow.g.cs
+D:\ExcelComparison\ReadExcelWPF\obj\Debug\App.g.cs
+D:\ExcelComparison\ReadExcelWPF\obj\Debug\ReadExcelWPF_MarkupCompile.cache
+D:\ExcelComparison\ReadExcelWPF\obj\Debug\ReadExcelWPF_MarkupCompile.lref
+D:\ExcelComparison\ReadExcelWPF\obj\Debug\App.baml
+D:\ExcelComparison\ReadExcelWPF\obj\Debug\MainWindow.baml
+D:\ExcelComparison\ReadExcelWPF\obj\Debug\RoundedButtonStyle.baml
+D:\ExcelComparison\ReadExcelWPF\obj\Debug\Themes.baml
+D:\ExcelComparison\ReadExcelWPF\obj\Debug\ReadExcelWPF.g.resources
+D:\ExcelComparison\ReadExcelWPF\obj\Debug\ReadExcelWPF.Properties.Resources.resources
+D:\ExcelComparison\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.GenerateResource.cache
+D:\ExcelComparison\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.CoreCompileInputs.cache
+D:\ExcelComparison\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.CopyComplete
+D:\ExcelComparison\ReadExcelWPF\obj\Debug\ReadExcelWPF.exe
+D:\ExcelComparison\ReadExcelWPF\obj\Debug\ReadExcelWPF.pdb
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\bin\Debug\ReadExcelWPF.exe.config
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\bin\Debug\ReadExcelWPF.exe
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\bin\Debug\ReadExcelWPF.pdb
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\bin\Debug\ClosedXML.dll
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\bin\Debug\ExcelDataReader.dll
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\bin\Debug\FastMember.Signed.dll
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\bin\Debug\ReadExcelData.dll
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\bin\Debug\System.IO.Packaging.dll
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\bin\Debug\ReadExcelData.pdb
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\bin\Debug\ReadExcelData.dll.config
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\bin\Debug\ClosedXML.xml
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\bin\Debug\ExcelDataReader.xml
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\obj\Debug\ReadExcelWPF.csprojAssemblyReference.cache
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\obj\Debug\Interop.MSHTML.dll
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.ResolveComReference.cache
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\obj\Debug\App.g.cs
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\obj\Debug\ReadExcelWPF_MarkupCompile.cache
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\obj\Debug\ReadExcelWPF_MarkupCompile.lref
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\obj\Debug\App.baml
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\obj\Debug\MainWindow.baml
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\obj\Debug\RoundedButtonStyle.baml
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\obj\Debug\Themes.baml
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\obj\Debug\ReadExcelWPF.g.resources
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\obj\Debug\ReadExcelWPF.Properties.Resources.resources
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.GenerateResource.cache
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.CoreCompileInputs.cache
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\obj\Debug\ReadExcelWPF.csproj.CopyComplete
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\obj\Debug\ReadExcelWPF.exe
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelWPF\obj\Debug\ReadExcelWPF.pdb

@@ -1,0 +1,369 @@
+﻿<Window				
+		
+		x:Class="ReadExcelWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ReadExcelWPF"
+        mc:Ignorable="d"
+        MinHeight="{Binding MyProgramMinHeight, Source={x:Static Application.Current}}" 
+		Height="{Binding MySavedProgramHeight, Source={x:Static Application.Current}}"
+		MaxHeight="{Binding MySavedProgramHeight, Source={x:Static Application.Current}}"
+		MinWidth="{Binding MyProgramMinWidth, Source={x:Static Application.Current}}" 
+		Width="{Binding MyProgramMinWidth, Source={x:Static Application.Current}}"
+		MaxWidth="{Binding MyProgramMinWidth, Source={x:Static Application.Current}}"
+		Name="ProgramWindow"
+		SizeChanged="ProgramWindow_SizeChanged"
+        StateChanged="Window_StateChanged">
+
+	<Window.Resources>
+	</Window.Resources>
+	<Border BorderThickness="3" Padding="0" BorderBrush="{Binding MyMenuBorderBrushColor, Source={x:Static Application.Current}}" MouseMove="Whole_MouseMove">
+
+		<Grid>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="420"/>
+			<ColumnDefinition Width="Auto"/>
+		</Grid.ColumnDefinitions>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="*"/>
+		</Grid.RowDefinitions>
+
+				<Grid Grid.Column="0" Grid.Row="0" Name="FirstGrid" Width="Auto" Margin="0,0,9,0">
+
+                <DockPanel>
+					<Grid DockPanel.Dock="Top">
+						<StackPanel Name="mainStackpanel" Background="#fff">
+							<Border BorderThickness="0,0,0,3" BorderBrush="{Binding MyMenuBorderBrushColor, Source={x:Static Application.Current}}" Margin="0,0,-9,0" Padding="20" SnapsToDevicePixels="True">
+								<Grid>
+									<Rectangle Width="239" Height="52.5" Name="rectangleForLogo" 
+							   VerticalAlignment="Center" HorizontalAlignment="Center">
+                     <!--
+										<Rectangle.Fill>
+											ImageBrush ImageSource=""/>
+										</Rectangle.Fill>
+                    -->
+									</Rectangle>
+
+								</Grid>
+							</Border>
+
+							<Grid>
+								<Grid.ColumnDefinitions>
+									<ColumnDefinition Width="*"/>
+									<ColumnDefinition Width="*"/>
+								</Grid.ColumnDefinitions>
+								<Grid.RowDefinitions>
+									<RowDefinition Height="*"/>
+								</Grid.RowDefinitions>
+
+								<StackPanel Grid.Column="0" VerticalAlignment="Center" 
+							HorizontalAlignment="Center" Height="Auto" Width="Auto">
+									<TextBlock Text="Compared (new) file" SnapsToDevicePixels="True"
+							   FontWeight="Bold" Foreground="#0054A6" 
+							   FontSize="{Binding MyTextFontSize, Source={x:Static Application.Current}}" 
+							   Margin="0,10,0,0"/>
+								</StackPanel>
+
+								<StackPanel Grid.Column="1" VerticalAlignment="Center" 
+							HorizontalAlignment="Center" Height="Auto" Width="Auto">
+									<TextBlock Text="Comparable (old)" SnapsToDevicePixels="True"
+							   FontWeight="Bold" Foreground="#0054A6" 
+							   FontSize="{Binding MyTextFontSize, Source={x:Static Application.Current}}"  
+							   Margin="0,10,0,0"/>
+								</StackPanel>
+							</Grid>
+
+							<Grid IsSharedSizeScope="True">
+
+								<Grid.RowDefinitions>
+									<RowDefinition Height="*"/>
+									<RowDefinition Height="*"/>
+									<RowDefinition Name="changedButtonHeight" Height="*"/>
+								</Grid.RowDefinitions>
+
+								<Grid.ColumnDefinitions>
+									<ColumnDefinition Width="*"/>
+									<ColumnDefinition Width="*"/>
+								</Grid.ColumnDefinitions>
+
+								<StackPanel Grid.Column="0" Margin="10,10,10,0" Background="Transparent">
+									<TextBox  Grid.Row="0" Name="comparedTextBox" TextAlignment="Center" Text="" IsReadOnly ="True" 
+							  Background="#eee" SnapsToDevicePixels="True"
+							  FontWeight="Bold" Foreground="#0054A6" Padding="2" 
+							  FontSize="{Binding MyTextBlockFontSize, Source={x:Static Application.Current}}" 
+							  Margin="0,0,0,2"/>
+									<TextBox  Grid.Row="1" Name="secondComparedTextBox" TextAlignment="Center" Text="" IsReadOnly ="True" 
+							  Background="#eee" SnapsToDevicePixels="True"
+							  FontWeight="Bold" Foreground="#0054A6" Padding="2" 
+							  FontSize="{Binding MyTextBlockFontSize, Source={x:Static Application.Current}}" 
+							  Margin="0,0,0,8"/>
+								</StackPanel>
+
+								<StackPanel Grid.Column="1"  Margin="10,10,10,0" >
+									<TextBox  Grid.Row="0" Name="comparableTextBox" TextAlignment="Center" Text="" IsReadOnly ="True" 
+							  Background="#eee" SnapsToDevicePixels="True"
+							  FontWeight="Bold" Foreground="#0054A6" Padding="2" 
+							  FontSize="{Binding MyTextBlockFontSize, Source={x:Static Application.Current}}" 
+							  Margin="0,0,0,2"/>
+									<TextBox  Grid.Row="1" Name="secondComparableTextBox" TextAlignment="Center" Text="" IsReadOnly ="True" 
+							  Background="#eee" SnapsToDevicePixels="True"
+							  FontWeight="Bold" Foreground="#0054A6" Padding="2" 
+							  FontSize="{Binding MyTextBlockFontSize, Source={x:Static Application.Current}}" 
+							  Margin="0,0,0,8" />
+
+								</StackPanel>
+							</Grid>
+
+
+
+
+							<Grid>
+								<Grid.ColumnDefinitions>
+									<ColumnDefinition Width="*"/>
+									<ColumnDefinition Width="*"/>
+								</Grid.ColumnDefinitions>
+								<Grid.RowDefinitions>
+									<RowDefinition Height='*' />
+									<RowDefinition Height='*' />
+								</Grid.RowDefinitions>
+
+
+								<StackPanel Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">
+									<Grid>
+
+
+										<Rectangle Fill="#0054A6" Margin="0,0,0,0" RadiusX = "6" RadiusY = "6"  Visibility="Visible"
+								   Stroke="#5088b0" StrokeThickness="1" SnapsToDevicePixels="True">
+											<Rectangle.BitmapEffect>
+												<DropShadowBitmapEffect Color="{Binding MyShadowColor, Source={x:Static Application.Current}}"
+														Direction="{Binding MyShadowDirection, Source={x:Static Application.Current}}"
+														ShadowDepth="{Binding MyShadowDepth, Source={x:Static Application.Current}}"
+														Softness="{Binding MyShadowSoftness, Source={x:Static Application.Current}}"
+														/>
+											</Rectangle.BitmapEffect>
+										</Rectangle>
+										<Button Name="comparedButton" 
+									Click="ComparedButton_Click"  
+									IsHitTestVisible= "False" 
+									Visibility="Visible"
+								MouseLeave="ComparedButton_MouseLeave" 
+									Width="{Binding ActualWidth, ElementName=comparedTextBox}" 
+									MouseMove="Whole_MouseMove"
+							Foreground="#fff" FontWeight="Bold" Padding="2" Cursor="Hand"
+							FontSize="{Binding MyTextBlockFontSize, Source={x:Static Application.Current}}">
+										</Button>
+
+										<Rectangle Fill="#0054A6" Margin="0,0,0,0" RadiusX = "6" RadiusY = "6"  Visibility="Visible" IsHitTestVisible="True"
+								   Stroke="#5088b0" StrokeThickness="1" SnapsToDevicePixels="True"
+					AllowDrop="True" Width="{Binding ActualWidth, ElementName=comparedTextBox}"
+					DragEnter="Rectangle_DragEnter" DragLeave="Rectangle_DragLeave" 
+					DragOver="Rectangle_DragOver" Drop="Rectangle_Drop" x:Name="rectangleCompared">
+										</Rectangle>
+
+										<TextBlock TextAlignment="Center" IsHitTestVisible= "false" SnapsToDevicePixels="True" MouseMove="Whole_MouseMove"
+								   HorizontalAlignment="Center" FontWeight="Bold" Foreground="#fff" Padding="2"
+								   FontSize="{Binding MyTextBlockFontSize, Source={x:Static Application.Current}}" 
+									   Margin="10,10,10,10" Name="compared">
+							<LineBreak/>
+							<Run Text=" Drag and drop files here"/>
+							<LineBreak/>
+							<Run Text=" to upload "/>
+							<LineBreak/>
+							<Run Text=" (or click) "/>
+							<LineBreak/>
+										</TextBlock>
+									</Grid>
+									
+								</StackPanel>
+
+
+
+
+
+								<StackPanel Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">
+									<Grid>
+										<Rectangle Fill="#0054A6" Margin="0,0,0,0" RadiusX = "6" RadiusY = "6"  Visibility="Visible"
+								   Stroke="#5088b0" StrokeThickness="1" SnapsToDevicePixels="True">
+											<Rectangle.BitmapEffect>
+												<DropShadowBitmapEffect Color="{Binding MyShadowColor, Source={x:Static Application.Current}}"
+														Direction="{Binding MyShadowDirection, Source={x:Static Application.Current}}"
+														ShadowDepth="{Binding MyShadowDepth, Source={x:Static Application.Current}}"
+														Softness="{Binding MyShadowSoftness, Source={x:Static Application.Current}}"
+														/>
+											</Rectangle.BitmapEffect>
+										</Rectangle>
+										<Button Name="comparableButton" 
+									Click="ComparableButton_Click"  
+									IsHitTestVisible= "False" 
+									Visibility="Visible" SnapsToDevicePixels="True"
+								MouseLeave="ComparableButton_MouseLeave" 
+									Width="{Binding ActualWidth, ElementName=comparableTextBox}"
+									MouseMove="Whole_MouseMove"
+							Foreground="#fff" FontWeight="Bold" Padding="2" Cursor="Hand"
+							FontSize="{Binding MyTextBlockFontSize, Source={x:Static Application.Current}}">
+										</Button>
+
+										<Rectangle Fill="#0054A6" Margin="0,0,0,0" RadiusX = "6" RadiusY = "6"  Visibility="Visible" IsHitTestVisible="True"
+								   Stroke="#5088b0" StrokeThickness="1" SnapsToDevicePixels="True"
+					AllowDrop="True" Width="{Binding ActualWidth, ElementName=comparableButton}"
+					DragEnter="Rectangle_DragEnter" DragLeave="Rectangle_DragLeave" 
+					DragOver="Rectangle_DragOver" Drop="Rectangle_Drop" x:Name="rectangleComparable">
+										</Rectangle>
+
+										<TextBlock TextAlignment="Center" IsHitTestVisible= "false" SnapsToDevicePixels="True" MouseMove="Whole_MouseMove"
+								   HorizontalAlignment="Center" FontWeight="Bold" Foreground="#fff" Padding="2"
+								   FontSize="{Binding MyTextBlockFontSize, Source={x:Static Application.Current}}" 
+									   Margin="10,10,10,10" Name="comparable">
+							<LineBreak/>
+							<Run Text=" Drag and drop files here"/>
+							<LineBreak/>
+							<Run Text=" to upload "/>
+							<LineBreak/>
+							<Run Text=" (or click) "/>
+							<LineBreak/>
+										</TextBlock>
+									</Grid>
+								</StackPanel>
+							</Grid>
+
+
+							<Border BorderThickness="0,3,0,0" BorderBrush="{Binding MyMenuBorderBrushColor, Source={x:Static Application.Current}}" Margin="0,10,-9,0" Padding="0"  SnapsToDevicePixels="True" >
+								<Grid>
+
+									<TextBlock  Text="File output destination selection&#xa;
+					(default is set to desktop)"  FontWeight="Bold" Foreground="#0054A6"  
+								VerticalAlignment="Center" HorizontalAlignment="Center" Padding="2" 
+								FontSize="{Binding MyTextFontSize, Source={x:Static Application.Current}}" 
+								Margin="10,10,10,0"/>
+								</Grid>
+							</Border>
+
+							<Grid>
+								<TextBox  Name="resultTextBox" TextAlignment="Center" Text="" IsReadOnly ="True" 
+						  Background="#eee" FontWeight="Bold" 
+						  FontSize="{Binding MyTextBlockFontSize, Source={x:Static Application.Current}}"
+						  Foreground="#0054A6" Padding="2" Margin="10,6,10,0"/>
+							</Grid>
+
+
+
+							<Grid Margin="10,6,10,6">
+								<Rectangle Fill="#0054A6" Margin="0,0,0,0" SnapsToDevicePixels="True" RadiusX = "6" RadiusY = "6" Cursor="Hand"
+								   Width="{Binding ActualWidth, ElementName=resultButton}"
+							   Height="{Binding ActualHeight, ElementName=resultButton}">
+									<Rectangle.BitmapEffect>
+										<DropShadowBitmapEffect Color="{Binding MyShadowColor, Source={x:Static Application.Current}}"
+														Direction="{Binding MyShadowDirection, Source={x:Static Application.Current}}"
+														ShadowDepth="{Binding MyShadowDepth, Source={x:Static Application.Current}}"
+														Softness="{Binding MyShadowSoftness, Source={x:Static Application.Current}}"
+														/>
+									</Rectangle.BitmapEffect>
+								</Rectangle>
+								<Button Name="resultButton" Click="ResultButton_Click" Background="#0054A6" Padding="2" Cursor="Hand"
+						Foreground="#fff" FontWeight="Bold" Content="Click to setup finished file output" 
+						FontSize="{Binding MyTextBlockFontSize, Source={x:Static Application.Current}}"/>
+							</Grid>
+
+							<Grid>
+								<Grid.ColumnDefinitions>
+									<ColumnDefinition Width="1.8*"/>
+									<ColumnDefinition Width="*"/>
+								</Grid.ColumnDefinitions>
+								<Grid.RowDefinitions>
+									<RowDefinition Height='*' />
+									<RowDefinition Height='*' />
+								</Grid.RowDefinitions>
+
+
+								<StackPanel Grid.Column="0" Grid.Row="1">
+
+									<Grid >
+										<TextBox  Name="StatusTextBox" Text="" IsReadOnly ="True" 
+						  FontSize="{Binding MyTextBlockFontSize, Source={x:Static Application.Current}}"
+					  Background="#eee" FontWeight="Bold" Foreground="#0054A6" 
+					  Padding="2" TextAlignment="Center" Margin="10,60,0,10"/>
+									</Grid>
+
+								</StackPanel>
+
+								<StackPanel Grid.Column="1" Grid.Row="1">
+									<Grid  HorizontalAlignment="Right" Margin="0,60,10,20">
+										<Rectangle Fill="#0054A6" Margin="0,0,0,0" SnapsToDevicePixels="True" RadiusX = "6" RadiusY = "6"
+								   Width="{Binding ActualWidth, ElementName=programStartButton}"
+							   Height="{Binding ActualHeight, ElementName=programStartButton}">
+											<Rectangle.BitmapEffect>
+												<DropShadowBitmapEffect Color="{Binding MyShadowColor, Source={x:Static Application.Current}}"
+														Direction="{Binding MyShadowDirection, Source={x:Static Application.Current}}"
+														ShadowDepth="{Binding MyShadowDepth, Source={x:Static Application.Current}}"
+														Softness="{Binding MyShadowSoftness, Source={x:Static Application.Current}}"
+														/>
+											</Rectangle.BitmapEffect>
+										</Rectangle>
+										<Button Name="programStartButton" Click="ProgramStartButton_Click" Background="#0054A6" Padding="2" Cursor="Hand"
+						FontWeight="Bold" Foreground="#fff" Content="Run and compare" 
+						 FontSize="{Binding MyTextBlockFontSize, Source={x:Static Application.Current}}" />
+									</Grid>
+								</StackPanel>
+							</Grid>
+						</StackPanel>
+					</Grid>
+					</DockPanel>
+			</Grid>
+
+
+
+		<Grid Grid.Column="1" Grid.Row="0" Name="SecondGrid" Visibility="Visible">
+			<DockPanel>
+				<Grid DockPanel.Dock="Left" Name="SecondGridLeft" Width="Auto">
+					<Button Name="MinimizeMaximizeButton" Visibility="Visible" Background="#0054A6" Cursor="Hand"
+							Width="Auto" Click="MinimizeOrMaximize_Click"
+							>
+					</Button>
+					<Rectangle IsHitTestVisible="False" HorizontalAlignment="Left"
+									   Name="SecondGridBar"
+									   Fill="#0054A6" 
+									   Width="9">
+					</Rectangle>
+					<TextBlock Name="Minimize" Visibility="Visible" FontSize="{Binding MyTextBlockFontSize, Source={x:Static Application.Current}}" 
+							    VerticalAlignment="Center" HorizontalAlignment="Stretch"
+							   Foreground="#fff" IsHitTestVisible="False">
+						<LineBreak/>
+							<Run Text="&lt;"/>
+							<LineBreak/>
+							<Run Text="&lt;"/>
+							<LineBreak/>
+							<Run Text="&lt;"/>
+							<LineBreak/>
+					</TextBlock>
+					<TextBlock Name="Maximize" Visibility="Hidden" FontSize="{Binding MyTextBlockFontSize, Source={x:Static Application.Current}}" 
+							    VerticalAlignment="Center" HorizontalAlignment="Stretch"
+							   Foreground="#fff" IsHitTestVisible="False">
+						<LineBreak/>
+							<Run Text="&gt;"/>
+							<LineBreak/>
+							<Run Text="&gt;"/>
+							<LineBreak/>
+							<Run Text="&gt;"/>
+							<LineBreak/>
+					</TextBlock>
+				</Grid>
+
+				<Grid Name="SecondGridCenter" Width="Auto">
+					<WebBrowser Name="ViewPDF" 
+								IsEnabled="false" 
+								ScrollViewer.HorizontalScrollBarVisibility="Hidden"
+								ScrollViewer.VerticalScrollBarVisibility="Hidden"
+                                Width="{Binding MyProgramMinWidth, Source={x:Static Application.Current}}"
+								>
+					</WebBrowser>
+				</Grid>
+			</DockPanel>
+		</Grid>
+
+
+	</Grid>
+	</Border>
+
+</Window>

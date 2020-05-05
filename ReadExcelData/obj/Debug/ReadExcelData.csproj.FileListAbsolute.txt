@@ -1,0 +1,281 @@
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelData\bin\Debug\ReadExcelData.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelData\bin\Debug\ReadExcelData.pdb
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelData\bin\Debug\ClosedXML.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelData\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelData\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelData\bin\Debug\ExcelDataReader.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelData\bin\Debug\ExcelNumberFormat.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelData\bin\Debug\FastMember.Signed.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelData\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelData\bin\Debug\System.IO.Packaging.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelData\bin\Debug\ClosedXML.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelData\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelData\bin\Debug\ExcelDataReader.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelData\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelData\bin\Debug\ExcelNumberFormat.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelData\obj\Debug\ReadExcelData.csprojResolveAssemblyReference.cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelData\obj\Debug\ReadExcelData.csproj.CoreCompileInputs.cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelData\obj\Debug\ReadExcelData.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\ReadExcelWPF\ReadExcelData\obj\Debug\ReadExcelData.pdb
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelData\bin\Debug\ReadExcelData.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelData\bin\Debug\ReadExcelData.pdb
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelData\bin\Debug\ClosedXML.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelData\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelData\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelData\bin\Debug\ExcelDataReader.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelData\bin\Debug\ExcelNumberFormat.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelData\bin\Debug\FastMember.Signed.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelData\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelData\bin\Debug\System.IO.Packaging.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelData\bin\Debug\ClosedXML.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelData\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelData\bin\Debug\ExcelDataReader.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelData\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelData\bin\Debug\ExcelNumberFormat.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelData\obj\Debug\ReadExcelData.csprojResolveAssemblyReference.cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelData\obj\Debug\ReadExcelData.csproj.CoreCompileInputs.cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelData\obj\Debug\ReadExcelData.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\ReadExcelWPF(20180827)\ReadExcelData\obj\Debug\ReadExcelData.pdb
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ReadExcelData.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ReadExcelData.pdb
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ClosedXML.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelData\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ExcelDataReader.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ExcelNumberFormat.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelData\bin\Debug\FastMember.Signed.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelData\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelData\bin\Debug\System.IO.Packaging.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ClosedXML.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelData\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ExcelDataReader.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ExcelNumberFormat.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelData\obj\Debug\ReadExcelData.csprojResolveAssemblyReference.cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelData\obj\Debug\ReadExcelData.csproj.CoreCompileInputs.cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelData\obj\Debug\ReadExcelData.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\BACKUPS\pirmasveikiantiswpf\ReadExcelData\obj\Debug\ReadExcelData.pdb
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ReadExcelData.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ReadExcelData.pdb
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ClosedXML.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelData\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ExcelDataReader.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ExcelNumberFormat.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelData\bin\Debug\FastMember.Signed.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelData\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelData\bin\Debug\System.IO.Packaging.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ClosedXML.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelData\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ExcelDataReader.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ExcelNumberFormat.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelData\obj\Debug\ReadExcelData.csprojResolveAssemblyReference.cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelData\obj\Debug\ReadExcelData.csproj.CoreCompileInputs.cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelData\obj\Debug\ReadExcelData.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\IsKompoBACKUP\IsKompo\failai\ReadExcelWPF(20180906 TRECIAS)\pirmasveikiantiswpf\ReadExcelData\obj\Debug\ReadExcelData.pdb
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ReadExcelData.dll.config
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ReadExcelData.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ReadExcelData.pdb
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ClosedXML.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelData\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ExcelDataReader.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ExcelNumberFormat.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelData\bin\Debug\FastMember.Signed.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelData\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelData\bin\Debug\System.IO.Packaging.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ClosedXML.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelData\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ExcelDataReader.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ExcelNumberFormat.xml
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelData\obj\Debug\ReadExcelData.csproj.CoreCompileInputs.cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelData\obj\Debug\ReadExcelData.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelData\obj\Debug\ReadExcelData.pdb
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelData\obj\Debug\ReadExcelData.csprojResolveAssemblyReference.cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelData\obj\Debug\Interop.Office.dll
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelData\obj\Debug\ReadExcelData.csproj.ResolveComReference.cache
+C:\Users\User 7\Documents\Visual Studio 2017\Projects\pirmasveikiantiswpf\ReadExcelData\bin\Debug\Microsoft.Data.Tools.Com.Interop.dll
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelData\obj\Debug\ReadExcelData.csprojAssemblyReference.cache
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelData\obj\Debug\Interop.Office.dll
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelData\obj\Debug\ReadExcelData.dll
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelData\obj\Debug\ReadExcelData.pdb
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ReadExcelData.dll.config
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ReadExcelData.dll
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ReadExcelData.pdb
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ClosedXML.dll
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelData\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ExcelDataReader.dll
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ExcelNumberFormat.dll
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelData\bin\Debug\FastMember.Signed.dll
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelData\bin\Debug\Microsoft.Data.Tools.Com.Interop.dll
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelData\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelData\bin\Debug\System.IO.Packaging.dll
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ClosedXML.xml
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelData\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ExcelDataReader.xml
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelData\bin\Debug\ExcelNumberFormat.xml
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelData\obj\Debug\ReadExcelData.csproj.ResolveComReference.cache
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelData\obj\Debug\ReadExcelData.csproj.CoreCompileInputs.cache
+C:\Users\academy\Desktop\pirmasveikiantiswpf\ReadExcelData\obj\Debug\ReadExcelData.csproj.CopyComplete
+C:\Users\navi\Desktop\compare\ReadExcelData\bin\Debug\ReadExcelData.dll.config
+C:\Users\navi\Desktop\compare\ReadExcelData\bin\Debug\ReadExcelData.dll
+C:\Users\navi\Desktop\compare\ReadExcelData\bin\Debug\ReadExcelData.pdb
+C:\Users\navi\Desktop\compare\ReadExcelData\bin\Debug\ClosedXML.dll
+C:\Users\navi\Desktop\compare\ReadExcelData\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\navi\Desktop\compare\ReadExcelData\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\navi\Desktop\compare\ReadExcelData\bin\Debug\ExcelDataReader.dll
+C:\Users\navi\Desktop\compare\ReadExcelData\bin\Debug\ExcelNumberFormat.dll
+C:\Users\navi\Desktop\compare\ReadExcelData\bin\Debug\FastMember.Signed.dll
+C:\Users\navi\Desktop\compare\ReadExcelData\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\navi\Desktop\compare\ReadExcelData\bin\Debug\System.IO.Packaging.dll
+C:\Users\navi\Desktop\compare\ReadExcelData\bin\Debug\ClosedXML.xml
+C:\Users\navi\Desktop\compare\ReadExcelData\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\navi\Desktop\compare\ReadExcelData\bin\Debug\ExcelDataReader.xml
+C:\Users\navi\Desktop\compare\ReadExcelData\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\navi\Desktop\compare\ReadExcelData\bin\Debug\ExcelNumberFormat.xml
+C:\Users\navi\Desktop\compare\ReadExcelData\obj\Debug\ReadExcelData.csprojAssemblyReference.cache
+C:\Users\navi\Desktop\compare\ReadExcelData\obj\Debug\ReadExcelData.csproj.ResolveComReference.cache
+C:\Users\navi\Desktop\compare\ReadExcelData\obj\Debug\ReadExcelData.csproj.CoreCompileInputs.cache
+C:\Users\navi\Desktop\compare\ReadExcelData\obj\Debug\ReadExcelData.csproj.CopyComplete
+C:\Users\navi\Desktop\compare\ReadExcelData\obj\Debug\ReadExcelData.dll
+C:\Users\navi\Desktop\compare\ReadExcelData\obj\Debug\ReadExcelData.pdb
+C:\Users\academy\Desktop\compare\ReadExcelData\bin\Debug\ReadExcelData.dll.config
+C:\Users\academy\Desktop\compare\ReadExcelData\bin\Debug\ReadExcelData.dll
+C:\Users\academy\Desktop\compare\ReadExcelData\bin\Debug\ReadExcelData.pdb
+C:\Users\academy\Desktop\compare\ReadExcelData\bin\Debug\ClosedXML.dll
+C:\Users\academy\Desktop\compare\ReadExcelData\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\academy\Desktop\compare\ReadExcelData\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\academy\Desktop\compare\ReadExcelData\bin\Debug\ExcelDataReader.dll
+C:\Users\academy\Desktop\compare\ReadExcelData\bin\Debug\ExcelNumberFormat.dll
+C:\Users\academy\Desktop\compare\ReadExcelData\bin\Debug\FastMember.Signed.dll
+C:\Users\academy\Desktop\compare\ReadExcelData\bin\Debug\Microsoft.Data.Tools.Com.Interop.dll
+C:\Users\academy\Desktop\compare\ReadExcelData\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\academy\Desktop\compare\ReadExcelData\bin\Debug\System.IO.Packaging.dll
+C:\Users\academy\Desktop\compare\ReadExcelData\bin\Debug\ClosedXML.xml
+C:\Users\academy\Desktop\compare\ReadExcelData\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\academy\Desktop\compare\ReadExcelData\bin\Debug\ExcelDataReader.xml
+C:\Users\academy\Desktop\compare\ReadExcelData\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\academy\Desktop\compare\ReadExcelData\bin\Debug\ExcelNumberFormat.xml
+C:\Users\academy\Desktop\compare\ReadExcelData\obj\Debug\ReadExcelData.csprojAssemblyReference.cache
+C:\Users\academy\Desktop\compare\ReadExcelData\obj\Debug\Interop.Office.dll
+C:\Users\academy\Desktop\compare\ReadExcelData\obj\Debug\ReadExcelData.csproj.ResolveComReference.cache
+C:\Users\academy\Desktop\compare\ReadExcelData\obj\Debug\ReadExcelData.csproj.CoreCompileInputs.cache
+C:\Users\academy\Desktop\compare\ReadExcelData\obj\Debug\ReadExcelData.csproj.CopyComplete
+C:\Users\academy\Desktop\compare\ReadExcelData\obj\Debug\ReadExcelData.dll
+C:\Users\academy\Desktop\compare\ReadExcelData\obj\Debug\ReadExcelData.pdb
+C:\Users\User 7\Desktop\compare\ReadExcelData\bin\Debug\ReadExcelData.dll.config
+C:\Users\User 7\Desktop\compare\ReadExcelData\bin\Debug\ReadExcelData.dll
+C:\Users\User 7\Desktop\compare\ReadExcelData\bin\Debug\ReadExcelData.pdb
+C:\Users\User 7\Desktop\compare\ReadExcelData\bin\Debug\ClosedXML.dll
+C:\Users\User 7\Desktop\compare\ReadExcelData\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\User 7\Desktop\compare\ReadExcelData\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\User 7\Desktop\compare\ReadExcelData\bin\Debug\ExcelDataReader.dll
+C:\Users\User 7\Desktop\compare\ReadExcelData\bin\Debug\ExcelNumberFormat.dll
+C:\Users\User 7\Desktop\compare\ReadExcelData\bin\Debug\FastMember.Signed.dll
+C:\Users\User 7\Desktop\compare\ReadExcelData\bin\Debug\Microsoft.Data.Tools.Com.Interop.dll
+C:\Users\User 7\Desktop\compare\ReadExcelData\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\User 7\Desktop\compare\ReadExcelData\bin\Debug\System.IO.Packaging.dll
+C:\Users\User 7\Desktop\compare\ReadExcelData\bin\Debug\ClosedXML.xml
+C:\Users\User 7\Desktop\compare\ReadExcelData\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\User 7\Desktop\compare\ReadExcelData\bin\Debug\ExcelDataReader.xml
+C:\Users\User 7\Desktop\compare\ReadExcelData\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\User 7\Desktop\compare\ReadExcelData\bin\Debug\ExcelNumberFormat.xml
+C:\Users\User 7\Desktop\compare\ReadExcelData\obj\Debug\ReadExcelData.csprojResolveAssemblyReference.cache
+C:\Users\User 7\Desktop\compare\ReadExcelData\obj\Debug\Interop.Office.dll
+C:\Users\User 7\Desktop\compare\ReadExcelData\obj\Debug\ReadExcelData.csproj.ResolveComReference.cache
+C:\Users\User 7\Desktop\compare\ReadExcelData\obj\Debug\ReadExcelData.csproj.CoreCompileInputs.cache
+C:\Users\User 7\Desktop\compare\ReadExcelData\obj\Debug\ReadExcelData.dll
+C:\Users\User 7\Desktop\compare\ReadExcelData\obj\Debug\ReadExcelData.pdb
+C:\Users\User 7\Desktop\compare2\ReadExcelData\bin\Debug\ReadExcelData.dll.config
+C:\Users\User 7\Desktop\compare2\ReadExcelData\bin\Debug\ReadExcelData.dll
+C:\Users\User 7\Desktop\compare2\ReadExcelData\bin\Debug\ReadExcelData.pdb
+C:\Users\User 7\Desktop\compare2\ReadExcelData\bin\Debug\ClosedXML.dll
+C:\Users\User 7\Desktop\compare2\ReadExcelData\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\User 7\Desktop\compare2\ReadExcelData\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\User 7\Desktop\compare2\ReadExcelData\bin\Debug\ExcelDataReader.dll
+C:\Users\User 7\Desktop\compare2\ReadExcelData\bin\Debug\ExcelNumberFormat.dll
+C:\Users\User 7\Desktop\compare2\ReadExcelData\bin\Debug\FastMember.Signed.dll
+C:\Users\User 7\Desktop\compare2\ReadExcelData\bin\Debug\Microsoft.Data.Tools.Com.Interop.dll
+C:\Users\User 7\Desktop\compare2\ReadExcelData\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\User 7\Desktop\compare2\ReadExcelData\bin\Debug\System.IO.Packaging.dll
+C:\Users\User 7\Desktop\compare2\ReadExcelData\bin\Debug\ClosedXML.xml
+C:\Users\User 7\Desktop\compare2\ReadExcelData\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\User 7\Desktop\compare2\ReadExcelData\bin\Debug\ExcelDataReader.xml
+C:\Users\User 7\Desktop\compare2\ReadExcelData\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\User 7\Desktop\compare2\ReadExcelData\bin\Debug\ExcelNumberFormat.xml
+C:\Users\User 7\Desktop\compare2\ReadExcelData\obj\Debug\ReadExcelData.csprojResolveAssemblyReference.cache
+C:\Users\User 7\Desktop\compare2\ReadExcelData\obj\Debug\Interop.Office.dll
+C:\Users\User 7\Desktop\compare2\ReadExcelData\obj\Debug\ReadExcelData.csproj.ResolveComReference.cache
+C:\Users\User 7\Desktop\compare2\ReadExcelData\obj\Debug\ReadExcelData.csproj.CoreCompileInputs.cache
+C:\Users\User 7\Desktop\compare2\ReadExcelData\obj\Debug\ReadExcelData.dll
+C:\Users\User 7\Desktop\compare2\ReadExcelData\obj\Debug\ReadExcelData.pdb
+C:\Users\navi\Desktop\compare2\ReadExcelData\bin\Debug\ReadExcelData.dll.config
+C:\Users\navi\Desktop\compare2\ReadExcelData\bin\Debug\ReadExcelData.dll
+C:\Users\navi\Desktop\compare2\ReadExcelData\bin\Debug\ReadExcelData.pdb
+C:\Users\navi\Desktop\compare2\ReadExcelData\bin\Debug\ClosedXML.dll
+C:\Users\navi\Desktop\compare2\ReadExcelData\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\navi\Desktop\compare2\ReadExcelData\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\navi\Desktop\compare2\ReadExcelData\bin\Debug\ExcelDataReader.dll
+C:\Users\navi\Desktop\compare2\ReadExcelData\bin\Debug\ExcelNumberFormat.dll
+C:\Users\navi\Desktop\compare2\ReadExcelData\bin\Debug\FastMember.Signed.dll
+C:\Users\navi\Desktop\compare2\ReadExcelData\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\navi\Desktop\compare2\ReadExcelData\bin\Debug\System.IO.Packaging.dll
+C:\Users\navi\Desktop\compare2\ReadExcelData\bin\Debug\ClosedXML.xml
+C:\Users\navi\Desktop\compare2\ReadExcelData\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\navi\Desktop\compare2\ReadExcelData\bin\Debug\ExcelDataReader.xml
+C:\Users\navi\Desktop\compare2\ReadExcelData\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\navi\Desktop\compare2\ReadExcelData\bin\Debug\ExcelNumberFormat.xml
+C:\Users\navi\Desktop\compare2\ReadExcelData\obj\Debug\ReadExcelData.csprojAssemblyReference.cache
+C:\Users\navi\Desktop\compare2\ReadExcelData\obj\Debug\ReadExcelData.csproj.ResolveComReference.cache
+C:\Users\navi\Desktop\compare2\ReadExcelData\obj\Debug\ReadExcelData.csproj.CoreCompileInputs.cache
+C:\Users\navi\Desktop\compare2\ReadExcelData\obj\Debug\ReadExcelData.csproj.CopyComplete
+C:\Users\navi\Desktop\compare2\ReadExcelData\obj\Debug\ReadExcelData.dll
+C:\Users\navi\Desktop\compare2\ReadExcelData\obj\Debug\ReadExcelData.pdb
+D:\ProgramosSourceKodas\ReadExcelData\bin\Debug\ReadExcelData.dll.config
+D:\ProgramosSourceKodas\ReadExcelData\bin\Debug\ReadExcelData.dll
+D:\ProgramosSourceKodas\ReadExcelData\bin\Debug\ReadExcelData.pdb
+D:\ProgramosSourceKodas\ReadExcelData\bin\Debug\ClosedXML.dll
+D:\ProgramosSourceKodas\ReadExcelData\bin\Debug\DocumentFormat.OpenXml.dll
+D:\ProgramosSourceKodas\ReadExcelData\bin\Debug\ExcelDataReader.DataSet.dll
+D:\ProgramosSourceKodas\ReadExcelData\bin\Debug\ExcelDataReader.dll
+D:\ProgramosSourceKodas\ReadExcelData\bin\Debug\ExcelNumberFormat.dll
+D:\ProgramosSourceKodas\ReadExcelData\bin\Debug\FastMember.Signed.dll
+D:\ProgramosSourceKodas\ReadExcelData\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\ProgramosSourceKodas\ReadExcelData\bin\Debug\System.IO.Packaging.dll
+D:\ProgramosSourceKodas\ReadExcelData\bin\Debug\ClosedXML.xml
+D:\ProgramosSourceKodas\ReadExcelData\bin\Debug\DocumentFormat.OpenXml.xml
+D:\ProgramosSourceKodas\ReadExcelData\bin\Debug\ExcelDataReader.xml
+D:\ProgramosSourceKodas\ReadExcelData\bin\Debug\ExcelDataReader.DataSet.xml
+D:\ProgramosSourceKodas\ReadExcelData\bin\Debug\ExcelNumberFormat.xml
+D:\ProgramosSourceKodas\ReadExcelData\obj\Debug\ReadExcelData.csprojAssemblyReference.cache
+D:\ProgramosSourceKodas\ReadExcelData\obj\Debug\ReadExcelData.csproj.ResolveComReference.cache
+D:\ProgramosSourceKodas\ReadExcelData\obj\Debug\ReadExcelData.csproj.CoreCompileInputs.cache
+D:\ProgramosSourceKodas\ReadExcelData\obj\Debug\ReadExcelData.csproj.CopyComplete
+D:\ProgramosSourceKodas\ReadExcelData\obj\Debug\ReadExcelData.dll
+D:\ProgramosSourceKodas\ReadExcelData\obj\Debug\ReadExcelData.pdb
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelData\bin\Debug\ReadExcelData.dll.config
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelData\bin\Debug\ReadExcelData.dll
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelData\bin\Debug\ReadExcelData.pdb
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelData\bin\Debug\ClosedXML.dll
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelData\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelData\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelData\bin\Debug\ExcelDataReader.dll
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelData\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelData\bin\Debug\FastMember.Signed.dll
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelData\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelData\bin\Debug\System.IO.Packaging.dll
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelData\bin\Debug\ClosedXML.xml
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelData\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelData\bin\Debug\ExcelDataReader.xml
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelData\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelData\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelData\obj\Debug\ReadExcelData.csprojAssemblyReference.cache
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelData\obj\Debug\ReadExcelData.csproj.ResolveComReference.cache
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelData\obj\Debug\ReadExcelData.csproj.CoreCompileInputs.cache
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelData\obj\Debug\ReadExcelData.csproj.CopyComplete
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelData\obj\Debug\ReadExcelData.dll
+C:\Users\Gabrielius Bagocius\Documents\GitHub\ExcelComp\ReadExcelData\obj\Debug\ReadExcelData.pdb
